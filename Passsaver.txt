@@ -1,0 +1,41 @@
+The name of account is        :m
+The user name of account is   :a
+The password name of account  :b
+The attched mobile no is      :s
+The attached Emails   is :     :h
+               DATABASE SAVED      
+____________________________________________________
+The name of account is        :instagram
+The user name of account is   :mubashirabbasid
+The password name of account  :mubashirabbaspassword
+The attched mobile no is      :
+The attached Emails   is :     :mubashirabbasgmail
+               DATABASE SAVED      
+____________________________________________________
+The name of account is        :instagram
+The user name of account is   :mubashirabbasid
+The password name of account  :
+The attched mobile no is      :
+The attached Emails   is :     :mubashirabbasgmail
+               DATABASE SAVED      
+____________________________________________________
+The name of account is        :
+The user name of account is   :
+The password name of account  :
+The attched mobile no is      :
+The attached Emails   is :     :
+               DATABASE SAVED      
+The name of account is        :facebook account
+The user name of account is   :mubashirabbsfacebook id 
+The password name of account  :facebook
+The attched mobile no is      :phone number
+The attached Emails   is :     :email
+               DATABASE SAVED      
+timestamp=2024-08-20 11:26:42.246527____________________________________________________
+The name of account is        :twitter
+The user name of account is   :mubashir
+The password name of account  :abbas
+The attched mobile no is      :mubashir 
+The attached Emails   is :     :abbas
+               DATABASE SAVED      
+time=2024-08-20 11:28:19.005417____________________________________________________

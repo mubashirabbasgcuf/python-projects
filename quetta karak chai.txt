@@ -1,0 +1,49 @@
+Welcome to Quetta karak Shop
+Name of customer: kashif
+Contact number: 
+Order details:
+Tea - Quantity: 2, Price: 100
+Total Bill: 200.0
+Paid Amount: 10
+Amount Due: 190.0
+AMOUNT paid to: kashif
+Welcome to Quetta karak Shop
+Name of customer: mubashir abbas
+Contact number: 
+Order details:
+Tea - Quantity: 2, Price: 100
+Total Bill: 200.0
+Paid Amount: 200
+Amount Due: 0.0
+AMOUNT paid to: saaeed
+Welcome to Quetta karak Shop
+Name of customer: mm
+Contact number: 
+Order details:
+Tea - Quantity: 2, Price: 100
+Total Bill: 200.0
+Paid Amount: 
+Amount Due: Invalid input
+AMOUNT paid to: 
+_________________________________________________
+Welcome to Quetta karak Shop
+Name of customer: 
+Contact number: 
+Order details:
+Sandwich - Quantity: 2, Price: 100
+Burger - Quantity: 3, Price: 100
+Pizza - Quantity: , Price: 
+Total Bill: 500.0
+Paid Amount: 200
+Amount Due: 300.0
+AMOUNT paid to: 
+_________________________________________________Welcome to Quetta karak Shop
+Name of customer: mardan
+Contact number: 0301
+Order details:
+Burger - Quantity: 2, Price: 500
+Total Bill: 1000.0
+Paid Amount: 700
+Amount Due: 300.0
+AMOUNT paid to: kashif
+_________________________________________________

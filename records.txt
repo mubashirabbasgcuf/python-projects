@@ -1,0 +1,132 @@
+The name is               :nn
+Emails address is         :fg
+Age of Application is     :0
+The fathername            :nn
+Applicant Blood group is  :fh
+Contact no :              :0gf
+checkbox                  :
+The name is               :wetwe
+Emails address is         :gsd
+Age of Application is     :0
+The fathername            :wetwe
+Applicant Blood group is  :seg
+Contact no :              :0sfd
+checkbox                  :
+The name is               :trhyr
+Emails address is         :fj
+Age of Application is     :0
+The fathername            :ftjf
+Applicant Blood group is  :fgj
+Contact no :              :0fgj
+checkbox                  :
+_________________________________________________________The name is               :werw
+Emails address is         :wetw
+Age of Application is     :0wet
+The fathername            :wetw
+Applicant Blood group is  :wtetert
+Contact no :              :0
+checkbox                  :
+_________________________________________________________The name is               :gd
+Emails address is         :dg
+Age of Application is     :0
+The fathername            :fd
+Applicant Blood group is  :34
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :wte
+Emails address is         :te
+Age of Application is     :0
+The fathername            :wte
+Applicant Blood group is  :etrt
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :example name
+Emails address is         :gmail@gmail.com
+Age of Application is     :14
+The fathername            :example father name
+Applicant Blood group is  :A+
+Contact no :              :000
+checkbox                  :1
+_________________________________________________________
+The name is               :example name
+Emails address is         :gmail@gmail.com
+Age of Application is     :14
+The fathername            :example father name
+Applicant Blood group is  :A+
+Contact no :              :000
+checkbox                  :1
+_________________________________________________________
+The name is               :mu
+Emails address is         :
+Age of Application is     :14
+The fathername            :s
+Applicant Blood group is  :A+
+Contact no :              :030
+checkbox                  :
+_________________________________________________________
+The name is               :mu
+Emails address is         :m
+Age of Application is     :A+
+The fathername            :s
+Applicant Blood group is  :
+Contact no :              :03
+checkbox                  :
+_________________________________________________________
+The name is               :
+Emails address is         :
+Age of Application is     :0
+The fathername            :
+Applicant Blood group is  :
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :
+Emails address is         :
+Age of Application is     :0
+The fathername            :
+Applicant Blood group is  :
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :
+Emails address is         :
+Age of Application is     :0
+The fathername            :
+Applicant Blood group is  :
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :
+Emails address is         :
+Age of Application is     :0
+The fathername            :
+Applicant Blood group is  :
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :
+Emails address is         :
+Age of Application is     :0
+The fathername            :
+Applicant Blood group is  :
+Contact no :              :0
+checkbox                  :
+_________________________________________________________
+The name is               :name
+Emails address is         :gmail@gamail.com
+Age of Application is     :15
+The fathername            :fathername
+Applicant Blood group is  :h8us
+Contact no :              :00000000000000000000
+checkbox                  :1
+_________________________________________________________
+The name is               :javed iqbal
+Emails address is         :test email
+Age of Application is     :19
+The fathername            :zafar iqbal
+Applicant Blood group is  :b+
+Contact no :              :03018269068
+checkbox                  :0
+_________________________________________________________
